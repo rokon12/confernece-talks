@@ -52,3 +52,13 @@ We need threads to achieve high throughput. However, threads are not cheap and a
 
 This talk will explore what virtual threads are, how they are implemented, how they solve our modern problems, and what, if any, shortcomings there may be.
 
+## Let’s Use Optional to Fix Our Method Contract
+**Abstract:**
+
+A method is a contract; when we define one, we put our thoughts into it. We specify the parameters with their type and also a return type. When we invoke a method, we expect it to behave according to the contract. If it doesn’t, it’s a violation of the contract.
+We deal with such a violation all the time. We invoke a method with its proper arguments, and we get a return. However, sometimes we end up getting a null, which is, in fact, a clear violation. We shouldn’t accept such a violation. If a method cannot return the value of the specified type, it should mention that in the method signature, the method may or may not be returning the value you are expecting. If we know it from the method signature, we write our code accordingly.
+
+Now the question is, how do we define such a contract in a method signature? Well, that’s where Optional comes into play. Set your return type as Optional. Optional is a mystery box, a wrapping paper; it may or may not contain the value.
+
+In this talk, we will discuss how to use Optional in Java and its patterns.
+
