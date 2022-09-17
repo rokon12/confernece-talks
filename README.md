@@ -43,5 +43,12 @@ Moving to the latest java version means many things. For example -
 In this short talk, I will demonstrate a few small and easy steps to upgrade your knowledge and java code to the latest version.
 
 
+## Creating a Million Virtual Threads Using Project Loom to Improve Throughput
+**Abstract:**
 
+Project Loom introduces virtual threads, lightweight threads that aim to dramatically reduce the effort of writing, maintaining, and monitoring high-throughput concurrent applications on the Java platform.
+
+We need threads to achieve high throughput. However, threads are not cheap and are limited in quantity. To get around this problem, various alternatives, such as the reactive programming style, have emerged. These techniques bypass creating a lot of threads at the expense of more difficult debugging. This makes developers grumpy. However, with virtual threads, we get the best of both worlds, cheap, lightweight threads and easy debugging, which would make developers happy again.
+
+This talk will explore what virtual threads are, how they are implemented, how they solve our modern problems, and what, if any, shortcomings there may be.
 
