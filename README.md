@@ -14,7 +14,7 @@ In this session, we will look into those options that are available to us. To be
 **Abstract:**
 The pace at which new versions of Java are made available to the public remains exceptionally rapid. As a result, since Java 8, we have been introduced to a plethora of new features. Indeed, some of these brand-new features have already proven their worth in spades. Examples include lambda expressions, stream API, optional, immutable collections, enhanced switch statements, optionals, records, sealed classes, and many more.
 
-In this talk, I will discuss the top 10 Java language features that are highly useful and worthwhile in our day-to-day programming lives.
+In this talk, I will discuss the top 10 Java language features that are highly useful and worthwhile in our day-to-day programming.
 
 ## Java Threading Essentials: Novice to Expert
 **Abstract:**
