@@ -1,5 +1,12 @@
 # Confernece Talks
 
+## Jakarta Starter: Create, build and run Jakarta EE Applications in under a minute
+
+**Abstract:**
+
+Everyone has an idea for a killer app, but everyone has to start somewhere. It’s always a good idea to start with all the scaffolding needed for the project. We didn’t have a good starter application until now that could specify our requirements, such as runtime, dependencies, and so on, and build a project structure in a minute. Many developers crafted their own version of the Maven archetype, but now we have an official one from the Eclipse Foundation that is simple to download and use in a matter of minutes.
+
+In this talk, I’ll show you how to use it to create a Jakarta EE application in under a minute. Furthermore, I will demonstrate how a developer can contribute to the ongoing project and help enrich the starter project.
 
 ## A tale of two cities: blocking code vs. non-blocking code
 
