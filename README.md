@@ -7,10 +7,16 @@ Project Loom introduces virtual threads, lightweight threads that aim to dramati
 
 
 ## Breaking Java Stereotypes: It's Not Your Dad's Language Anymore
+
 **Abstract:**
 
-Discover the transformed Java programming language that defies stereotypes and embraces modernity. Explore its evolution with features like Records, Pattern Matching, Sealed Classes, Functional Programming, Virtual Threads, Structured Concurrency, String Templates, Flexible Main Method, Text Blocks, and Data-Oriented Programming. Learn how these advancements empower developers to write concise, expressive, and efficient code, dispelling the notion that Java is a legacy language. Join us to break the Java stereotypes and embrace the exciting possibilities of this dynamic and forward-thinking language.
+Challenging outdated stereotypes of Java, this talk spotlights the transformative evolution of this mature language, highlighting its transition into a modern, lean, and flexible tool for developers.
 
+We'll explore its new features like flexible main methods, records, and sealed classes that enhance expressiveness and efficiency. We will touch upon the inclusion of pattern matching, Unnamed Patterns and Variables which usher in a new level of expressiveness.
+
+The discussion will extend to Java's improved handling of concurrency with virtual threads and structured concurrency, and we'll also look at the ease and efficiency introduced by String Templates.
+
+Join us as we rediscover Java: no longer a verbose and rigid relic, but a versatile, contemporary language ready for the challenges of modern software development.
 
 
 
