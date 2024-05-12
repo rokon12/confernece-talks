@@ -1,5 +1,21 @@
 # Confernece Talks
 
+## Just Pattern Matching: Java Catches Up (But Is It Enough?)
+**Abstract:**
+
+Ready to ditch those tangled if-else chains and say goodbye to clumsy type checks? Java's new pattern-matching features promise a cleaner, more elegant way to code. But can they truly match the power and expressiveness that Kotlin and Scala developers have enjoyed for years? This talk takes a deep dive into Java's pattern-matching evolution, comparing its capabilities side-by-side with these JVM heavyweights. Discover where Java excels, where it might still fall short, and whether it's time to refactor your projects confidently.
+
+Whether you're a Java loyalist, a Kotlin convert, or a Scala enthusiast, you'll leave with a fresh perspective on the pattern-matching landscape.
+
+## Java Streams Revisited: Unleashing the Power of the Gatherer API
+
+**Abstract:**
+The Java Stream API revolutionized functional-style programming in Java, enabling developers to express complex data processing pipelines concisely. However, certain operations have remained challenging to implement, often requiring cumbersome workarounds. Enter the Gatherer API (JEP 461), a powerful extension designed to enhance the flexibility and expressiveness of streams.
+
+This talk revisits the Stream API with a focus on the Gatherer API, delving into its inner workings and showcasing its practical applications. We'll explore how Gatherers empower developers to create custom intermediate operations for filtering, windowing, folding, unfolding, and more. Through real-world examples, we'll demonstrate how Gatherers streamline data analysis, algorithm implementation, and other stream-processing tasks.
+
+Join us to discover how the Gatherer API unlocks new possibilities for harnessing the full potential of Java streams, making your code more elegant, efficient, and maintainable. Whether you're a seasoned Stream API user or just getting started, this talk will provide valuable insights and techniques to elevate your stream-processing skills.
+
 ## Virtual Threads: Ushering In a New Era of Concurrency
 
 **Abstract:**
