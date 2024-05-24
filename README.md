@@ -24,13 +24,11 @@ Project Loom introduces virtual threads, lightweight threads that aim to dramati
 ## Breaking Java Stereotypes: It's Not Your Dad's Language Anymore
 **Abstract:**
 
-Challenging outdated stereotypes of Java, this talk spotlights the transformative evolution of this mature language, highlighting its transition into a modern, lean, and flexible tool for developers.
+Are you still thinking of Java as a verbose and rigid relic? Java has long been burdened with outdated stereotypes that fail to reflect its modern capabilities.
 
-We'll explore new features like flexible main methods, records, and sealed classes that enhance expressiveness and efficiency. We'll touch upon the inclusion of pattern matching, unnamed patterns, and variables, which usher in a new level of expressiveness.
+This talk challenges those misconceptions by spotlighting the transformative evolution of this mature language. Discover how Java has transitioned into a modern, lean, and flexible tool for today's developers. We'll delve into new features like flexible main methods, records, and sealed classes that enhance both expressiveness and efficiency. Additionally, we'll explore the inclusion of pattern matching, unnamed patterns, and variables, which bring a new level of elegance to Java programming. Our discussion will extend to Java's improved handling of concurrency with virtual threads and structured concurrency, and we'll highlight the ease and efficiency introduced by String Templates.
 
-The discussion will extend to Java's improved handling of concurrency with virtual threads and structured concurrency. We'll also look at the ease and efficiency introduced by String Templates.
-
-Join us as we rediscover Java: no longer a verbose and rigid relic, but a versatile, contemporary language ready for the challenges of modern software development.
+Join us as we rediscover Java: no longer your dad's language, but a versatile, contemporary powerhouse ready to tackle the challenges of modern software development. This talk is for developers who want to stay current with Java's evolution and leverage its powerful new features to write cleaner, more efficient code. You'll leave with a renewed appreciation for Java and practical insights to enhance your coding practices.
 
 ## Jakarta Starter: Create, Build, and Run Jakarta EE Applications in Under a Minute
 **Abstract:**
